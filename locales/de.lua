@@ -1,6 +1,6 @@
 local Translations = {
     error = {
-        canceled = 'Canceled',
+        canceled = 'Abgebrochen',
         bled_out = 'Du bist verblutet...',
         impossible = 'Das ist leider nicht möglich...',
         no_player = 'Es ist niemand in deiner nähe',
